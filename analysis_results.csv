@@ -1,0 +1,612 @@
+timestamp,class,score,formatted_time,sentiment,subcategory
+0.0,Bellow,0.13251477479934692,00:00,other,unknown
+0.1,display_name,0.3358183801174164,00:00,other,unknown
+0.2,display_name,0.5117478370666504,00:00,other,unknown
+0.30000000000000004,display_name,0.5202593803405762,00:00,other,unknown
+0.4,display_name,0.6113710403442383,00:00,other,unknown
+0.5,display_name,0.7120755314826965,00:00,other,unknown
+0.6000000000000001,display_name,0.9770951271057129,00:01,other,unknown
+0.7000000000000001,display_name,0.9304932355880737,00:01,other,unknown
+0.8,display_name,0.802504301071167,00:01,other,unknown
+0.9,display_name,0.6558652520179749,00:01,other,unknown
+1.0,display_name,0.5122532844543457,00:01,other,unknown
+1.1,display_name,0.5138233304023743,00:01,other,unknown
+1.2000000000000002,display_name,0.34113672375679016,00:01,other,unknown
+1.3,display_name,0.49895942211151123,00:01,other,unknown
+1.4000000000000001,display_name,0.421171635389328,00:01,other,unknown
+1.5,display_name,0.25340813398361206,00:02,other,unknown
+1.6,Whale vocalization,0.47297075390815735,00:02,positive,singing
+1.7000000000000002,Whale vocalization,0.6486479640007019,00:02,positive,singing
+1.8,Whale vocalization,0.7650039792060852,00:02,positive,singing
+1.9000000000000001,Whale vocalization,0.6031324863433838,00:02,positive,singing
+2.0,Whale vocalization,0.3205787241458893,00:02,positive,singing
+2.1,Whale vocalization,0.09245853126049042,00:02,positive,singing
+2.2,display_name,0.3273041844367981,00:02,other,unknown
+2.3000000000000003,display_name,0.6751620769500732,00:02,other,unknown
+2.4000000000000004,display_name,0.9664275050163269,00:02,other,unknown
+2.5,display_name,0.9267650246620178,00:02,other,unknown
+2.6,display_name,1.0033156871795654,00:03,other,unknown
+2.7,display_name,0.9908532500267029,00:03,other,unknown
+2.8000000000000003,display_name,0.9810459613800049,00:03,other,unknown
+2.9000000000000004,display_name,0.9931255578994751,00:03,other,unknown
+3.0,display_name,0.9256505966186523,00:03,other,unknown
+3.1,display_name,0.890819787979126,00:03,other,unknown
+3.2,display_name,0.9150176048278809,00:03,other,unknown
+3.3000000000000003,display_name,0.8800707459449768,00:03,other,unknown
+3.4000000000000004,display_name,0.8799791932106018,00:03,other,unknown
+3.5,display_name,0.6775062084197998,00:04,other,unknown
+3.6,display_name,0.6818315982818604,00:04,other,unknown
+3.7,display_name,0.8044232726097107,00:04,other,unknown
+3.8000000000000003,display_name,0.728986918926239,00:04,other,unknown
+3.9000000000000004,display_name,0.6116316318511963,00:04,other,unknown
+4.0,display_name,0.6733879446983337,00:04,other,unknown
+4.1000000000000005,display_name,0.9471071362495422,00:04,other,unknown
+4.2,display_name,0.896404504776001,00:04,other,unknown
+4.3,display_name,0.9748333096504211,00:04,other,unknown
+4.4,display_name,1.0000029802322388,00:04,other,unknown
+4.5,display_name,0.9965394735336304,00:04,other,unknown
+4.6000000000000005,display_name,0.9947739243507385,00:05,other,unknown
+4.7,display_name,0.9880640506744385,00:05,other,unknown
+4.800000000000001,display_name,0.9903222322463989,00:05,other,unknown
+4.9,display_name,0.994931697845459,00:05,other,unknown
+5.0,display_name,0.9972897171974182,00:05,other,unknown
+5.1000000000000005,display_name,0.9969967603683472,00:05,other,unknown
+5.2,display_name,1.0013145208358765,00:05,other,unknown
+5.300000000000001,display_name,0.9983646273612976,00:05,other,unknown
+5.4,display_name,0.9570183753967285,00:05,other,unknown
+5.5,display_name,0.7534632086753845,00:06,other,unknown
+5.6000000000000005,display_name,0.5683234930038452,00:06,other,unknown
+5.7,display_name,0.5429105758666992,00:06,other,unknown
+5.800000000000001,display_name,0.6457756757736206,00:06,other,unknown
+5.9,display_name,0.4910293221473694,00:06,other,unknown
+6.0,display_name,0.3556293547153473,00:06,other,unknown
+6.1000000000000005,display_name,0.313454806804657,00:06,other,unknown
+6.2,display_name,0.3012092113494873,00:06,other,unknown
+6.300000000000001,Cheering,0.21456016600131989,00:06,positive,cheering
+6.4,Cheering,0.33623093366622925,00:06,positive,cheering
+6.5,Cheering,0.27310308814048767,00:06,positive,cheering
+6.6000000000000005,display_name,0.17871101200580597,00:07,other,unknown
+6.7,display_name,0.11846625059843063,00:07,other,unknown
+6.800000000000001,Whale vocalization,0.04766232147812843,00:07,positive,singing
+6.9,Emergency vehicle,0.055934347212314606,00:07,other,unknown
+7.0,display_name,0.07491112500429153,00:07,other,unknown
+7.1000000000000005,display_name,0.4548007845878601,00:07,other,unknown
+7.2,display_name,0.5917017459869385,00:07,other,unknown
+7.300000000000001,display_name,0.39055129885673523,00:07,other,unknown
+7.4,Whale vocalization,0.7422741055488586,00:07,positive,singing
+7.5,Whale vocalization,1.0630017518997192,00:08,positive,singing
+7.6000000000000005,Whale vocalization,0.9959412813186646,00:08,positive,singing
+7.7,Whale vocalization,0.9794624447822571,00:08,positive,singing
+7.800000000000001,Whale vocalization,0.9655822515487671,00:08,positive,singing
+7.9,Whale vocalization,0.968001127243042,00:08,positive,singing
+8.0,Whale vocalization,0.9874136447906494,00:08,positive,singing
+8.1,Whale vocalization,0.9940881729125977,00:08,positive,singing
+8.200000000000001,Whale vocalization,0.9879154562950134,00:08,positive,singing
+8.3,Whale vocalization,0.9605636596679688,00:08,positive,singing
+8.4,Whale vocalization,0.9252032041549683,00:08,positive,singing
+8.5,Whale vocalization,0.934988796710968,00:08,positive,singing
+8.6,Whale vocalization,0.9714770913124084,00:09,positive,singing
+8.700000000000001,Whale vocalization,0.9868125319480896,00:09,positive,singing
+8.8,Whale vocalization,0.9786524176597595,00:09,positive,singing
+8.9,Whale vocalization,0.9867693185806274,00:09,positive,singing
+9.0,Whale vocalization,0.9811956882476807,00:09,positive,singing
+9.1,Whale vocalization,0.9564381241798401,00:09,positive,singing
+9.200000000000001,Whale vocalization,0.9563870429992676,00:09,positive,singing
+9.3,Whale vocalization,0.9798709154129028,00:09,positive,singing
+9.4,Whale vocalization,0.9923859238624573,00:09,positive,singing
+9.5,Whale vocalization,0.9846096634864807,00:10,positive,singing
+9.600000000000001,Whale vocalization,0.9877148866653442,00:10,positive,singing
+9.700000000000001,Whale vocalization,0.9936120510101318,00:10,positive,singing
+9.8,Whale vocalization,0.9635380506515503,00:10,positive,singing
+9.9,Whale vocalization,0.913243293762207,00:10,positive,singing
+10.0,Whale vocalization,0.9097608923912048,00:10,positive,singing
+10.100000000000001,Whale vocalization,0.9424334764480591,00:10,positive,singing
+10.200000000000001,Whale vocalization,0.969761312007904,00:10,positive,singing
+10.3,Whale vocalization,0.9604033827781677,00:10,positive,singing
+10.4,Whale vocalization,0.9657191634178162,00:10,positive,singing
+10.5,Whale vocalization,0.9676101803779602,00:10,positive,singing
+10.600000000000001,Whale vocalization,0.9470092058181763,00:11,positive,singing
+10.700000000000001,Whale vocalization,0.9308803081512451,00:11,positive,singing
+10.8,Whale vocalization,0.934126615524292,00:11,positive,singing
+10.9,Whale vocalization,0.9725039601325989,00:11,positive,singing
+11.0,Whale vocalization,0.953521192073822,00:11,positive,singing
+11.100000000000001,Whale vocalization,0.9291056990623474,00:11,positive,singing
+11.200000000000001,Whale vocalization,0.9158497452735901,00:11,positive,singing
+11.3,Whale vocalization,0.8700371384620667,00:11,positive,singing
+11.4,Whale vocalization,0.804572582244873,00:11,positive,singing
+11.5,Whale vocalization,0.7663544416427612,00:12,positive,singing
+11.600000000000001,Whale vocalization,0.8614361882209778,00:12,positive,singing
+11.700000000000001,Whale vocalization,0.9510329365730286,00:12,positive,singing
+11.8,Whale vocalization,0.9690375328063965,00:12,positive,singing
+11.9,Whale vocalization,0.9032881855964661,00:12,positive,singing
+12.0,Whale vocalization,0.892906665802002,00:12,positive,singing
+12.100000000000001,Whale vocalization,0.9170477986335754,00:12,positive,singing
+12.200000000000001,Whale vocalization,0.940064549446106,00:12,positive,singing
+12.3,Whale vocalization,0.9156203866004944,00:12,positive,singing
+12.4,Whale vocalization,0.9125170111656189,00:12,positive,singing
+12.5,Whale vocalization,0.9125120043754578,00:12,positive,singing
+12.600000000000001,Whale vocalization,0.9350629448890686,00:13,positive,singing
+12.700000000000001,Whale vocalization,0.9269909262657166,00:13,positive,singing
+12.8,Whale vocalization,0.9178169369697571,00:13,positive,singing
+12.9,Whale vocalization,0.927626371383667,00:13,positive,singing
+13.0,Whale vocalization,0.9163717031478882,00:13,positive,singing
+13.100000000000001,Whale vocalization,0.9136325716972351,00:13,positive,singing
+13.200000000000001,Whale vocalization,0.9253578186035156,00:13,positive,singing
+13.3,Whale vocalization,0.9679396152496338,00:13,positive,singing
+13.4,Whale vocalization,0.970001220703125,00:13,positive,singing
+13.5,Whale vocalization,0.9409990906715393,00:14,positive,singing
+13.600000000000001,Whale vocalization,0.6562477350234985,00:14,positive,singing
+13.700000000000001,Whale vocalization,0.5999076962471008,00:14,positive,singing
+13.8,Whale vocalization,0.7594900131225586,00:14,positive,singing
+13.9,Whale vocalization,0.9911848902702332,00:14,positive,singing
+14.0,Whale vocalization,0.941637396812439,00:14,positive,singing
+14.100000000000001,Whale vocalization,0.9569529294967651,00:14,positive,singing
+14.200000000000001,Whale vocalization,0.9964758157730103,00:14,positive,singing
+14.3,Whale vocalization,0.9813910126686096,00:14,positive,singing
+14.4,Whale vocalization,0.9319250583648682,00:14,positive,singing
+14.5,Whale vocalization,0.912630021572113,00:14,positive,singing
+14.600000000000001,Whale vocalization,0.9456639885902405,00:15,positive,singing
+14.700000000000001,Whale vocalization,0.9777816534042358,00:15,positive,singing
+14.8,Whale vocalization,0.9713429808616638,00:15,positive,singing
+14.9,Whale vocalization,0.9727681279182434,00:15,positive,singing
+15.0,Whale vocalization,0.9985156059265137,00:15,positive,singing
+15.100000000000001,Whale vocalization,0.8604681491851807,00:15,positive,singing
+15.200000000000001,Whale vocalization,0.7938653230667114,00:15,positive,singing
+15.3,Whale vocalization,0.8437198400497437,00:15,positive,singing
+15.4,Whale vocalization,0.9875668883323669,00:15,positive,singing
+15.5,Whale vocalization,0.9713165760040283,00:16,positive,singing
+15.600000000000001,Whale vocalization,0.9412034749984741,00:16,positive,singing
+15.700000000000001,Whale vocalization,0.9347411394119263,00:16,positive,singing
+15.8,Whale vocalization,0.8770491480827332,00:16,positive,singing
+15.9,Whale vocalization,0.8353197574615479,00:16,positive,singing
+16.0,Whale vocalization,0.8421925902366638,00:16,positive,singing
+16.1,Whale vocalization,0.9353941679000854,00:16,positive,singing
+16.2,Whale vocalization,0.8339450359344482,00:16,positive,singing
+16.3,Whale vocalization,0.6503415107727051,00:16,positive,singing
+16.400000000000002,Whale vocalization,0.6586259007453918,00:16,positive,singing
+16.5,Whale vocalization,0.8348885178565979,00:16,positive,singing
+16.6,Whale vocalization,0.9895638227462769,00:17,positive,singing
+16.7,Whale vocalization,0.6995095610618591,00:17,positive,singing
+16.8,Whale vocalization,0.28650951385498047,00:17,positive,singing
+16.900000000000002,display_name,0.33773598074913025,00:17,other,unknown
+17.0,display_name,0.22519458830356598,00:17,other,unknown
+17.1,Whale vocalization,0.2213323414325714,00:17,positive,singing
+17.2,Whale vocalization,0.13213999569416046,00:17,positive,singing
+17.3,display_name,0.1588912308216095,00:17,other,unknown
+17.400000000000002,Whale vocalization,0.372602641582489,00:17,positive,singing
+17.5,Whale vocalization,0.7708123326301575,00:18,positive,singing
+17.6,Whale vocalization,1.0119341611862183,00:18,positive,singing
+17.7,Whale vocalization,0.9039817452430725,00:18,positive,singing
+17.8,Whale vocalization,0.8952034711837769,00:18,positive,singing
+17.900000000000002,Whale vocalization,0.9319548606872559,00:18,positive,singing
+18.0,Whale vocalization,0.8057488203048706,00:18,positive,singing
+18.1,Whale vocalization,0.6382632255554199,00:18,positive,singing
+18.2,Whale vocalization,0.6625534892082214,00:18,positive,singing
+18.3,Whale vocalization,0.8385106921195984,00:18,positive,singing
+18.400000000000002,Whale vocalization,0.9059722423553467,00:18,positive,singing
+18.5,Whale vocalization,0.8499696850776672,00:18,positive,singing
+18.6,Whale vocalization,0.7469158172607422,00:19,positive,singing
+18.7,Whale vocalization,0.5823503732681274,00:19,positive,singing
+18.8,Whale vocalization,0.6467597484588623,00:19,positive,singing
+18.900000000000002,Whale vocalization,0.6748225092887878,00:19,positive,singing
+19.0,Whale vocalization,0.7590325474739075,00:19,positive,singing
+19.1,Whale vocalization,0.6236681938171387,00:19,positive,singing
+19.200000000000003,Whale vocalization,0.7037801146507263,00:19,positive,singing
+19.3,Whale vocalization,0.6009442806243896,00:19,positive,singing
+19.400000000000002,Whale vocalization,0.596708357334137,00:19,positive,singing
+19.5,Whale vocalization,0.4519340395927429,00:20,positive,singing
+19.6,Whale vocalization,0.41087764501571655,00:20,positive,singing
+19.700000000000003,Whale vocalization,0.2898097634315491,00:20,positive,singing
+19.8,Whale vocalization,0.3045448958873749,00:20,positive,singing
+19.900000000000002,Whale vocalization,0.5189543962478638,00:20,positive,singing
+20.0,Whale vocalization,0.7190307378768921,00:20,positive,singing
+20.1,Whale vocalization,0.7687823176383972,00:20,positive,singing
+20.200000000000003,Whale vocalization,0.6396452784538269,00:20,positive,singing
+20.3,Whale vocalization,0.6814156770706177,00:20,positive,singing
+20.400000000000002,Whale vocalization,0.7104517221450806,00:20,positive,singing
+20.5,Whale vocalization,0.7704313397407532,00:20,positive,singing
+20.6,Whale vocalization,0.6984288096427917,00:21,positive,singing
+20.700000000000003,Whale vocalization,0.6673413515090942,00:21,positive,singing
+20.8,Whale vocalization,0.6926190853118896,00:21,positive,singing
+20.900000000000002,Whale vocalization,0.6989096403121948,00:21,positive,singing
+21.0,Whale vocalization,0.7083386778831482,00:21,positive,singing
+21.1,Whale vocalization,0.7427317500114441,00:21,positive,singing
+21.200000000000003,Whale vocalization,0.9012979865074158,00:21,positive,singing
+21.3,Whale vocalization,0.9637128710746765,00:21,positive,singing
+21.400000000000002,Whale vocalization,0.9878113269805908,00:21,positive,singing
+21.5,Whale vocalization,1.0096402168273926,00:22,positive,singing
+21.6,Whale vocalization,0.916649580001831,00:22,positive,singing
+21.700000000000003,Whale vocalization,0.7210570573806763,00:22,positive,singing
+21.8,Whale vocalization,0.5954094529151917,00:22,positive,singing
+21.900000000000002,Whale vocalization,0.7036652565002441,00:22,positive,singing
+22.0,Whale vocalization,0.8420896530151367,00:22,positive,singing
+22.1,Whale vocalization,0.9086540341377258,00:22,positive,singing
+22.200000000000003,Whale vocalization,0.8497634530067444,00:22,positive,singing
+22.3,Whale vocalization,0.7274975776672363,00:22,positive,singing
+22.400000000000002,Whale vocalization,0.7178242206573486,00:22,positive,singing
+22.5,Whale vocalization,0.7136606574058533,00:22,positive,singing
+22.6,Whale vocalization,0.791654109954834,00:23,positive,singing
+22.700000000000003,Whale vocalization,0.8286862373352051,00:23,positive,singing
+22.8,Whale vocalization,0.9172879457473755,00:23,positive,singing
+22.900000000000002,Whale vocalization,0.9180632829666138,00:23,positive,singing
+23.0,Whale vocalization,0.8739528656005859,00:23,positive,singing
+23.1,Whale vocalization,0.8768147826194763,00:23,positive,singing
+23.200000000000003,Whale vocalization,0.8883248567581177,00:23,positive,singing
+23.3,Whale vocalization,0.9253736138343811,00:23,positive,singing
+23.400000000000002,Whale vocalization,0.9123337268829346,00:23,positive,singing
+23.5,Whale vocalization,0.9541476368904114,00:24,positive,singing
+23.6,Whale vocalization,0.9824538826942444,00:24,positive,singing
+23.700000000000003,Whale vocalization,0.9811536073684692,00:24,positive,singing
+23.8,Whale vocalization,0.9906066656112671,00:24,positive,singing
+23.900000000000002,Whale vocalization,1.0002617835998535,00:24,positive,singing
+24.0,Whale vocalization,0.9856964349746704,00:24,positive,singing
+24.1,Whale vocalization,0.9356109499931335,00:24,positive,singing
+24.200000000000003,Whale vocalization,0.9187239408493042,00:24,positive,singing
+24.3,Whale vocalization,0.94400554895401,00:24,positive,singing
+24.400000000000002,Whale vocalization,0.9633630514144897,00:24,positive,singing
+24.5,Whale vocalization,0.8854528069496155,00:24,positive,singing
+24.6,Whale vocalization,0.8791332244873047,00:25,positive,singing
+24.700000000000003,Whale vocalization,0.9271175861358643,00:25,positive,singing
+24.8,Whale vocalization,0.9766993522644043,00:25,positive,singing
+24.900000000000002,Whale vocalization,0.9243537783622742,00:25,positive,singing
+25.0,Whale vocalization,0.9287157654762268,00:25,positive,singing
+25.1,Whale vocalization,0.9565666317939758,00:25,positive,singing
+25.200000000000003,Whale vocalization,0.9853605031967163,00:25,positive,singing
+25.3,Whale vocalization,0.9604453444480896,00:25,positive,singing
+25.400000000000002,Whale vocalization,0.9586803317070007,00:25,positive,singing
+25.5,Whale vocalization,0.9586687088012695,00:26,positive,singing
+25.6,Whale vocalization,0.9791790843009949,00:26,positive,singing
+25.700000000000003,Whale vocalization,0.9798623323440552,00:26,positive,singing
+25.8,Whale vocalization,0.9831365346908569,00:26,positive,singing
+25.900000000000002,Whale vocalization,0.9664469957351685,00:26,positive,singing
+26.0,Whale vocalization,0.9250604510307312,00:26,positive,singing
+26.1,Whale vocalization,0.8998973369598389,00:26,positive,singing
+26.200000000000003,Whale vocalization,0.9184362888336182,00:26,positive,singing
+26.3,Whale vocalization,0.9463687539100647,00:26,positive,singing
+26.400000000000002,Whale vocalization,0.9520661234855652,00:26,positive,singing
+26.5,Whale vocalization,0.9695543050765991,00:26,positive,singing
+26.6,Whale vocalization,0.9933751225471497,00:27,positive,singing
+26.700000000000003,Whale vocalization,0.9959390759468079,00:27,positive,singing
+26.8,Whale vocalization,0.9376130104064941,00:27,positive,singing
+26.900000000000002,Whale vocalization,0.9107230305671692,00:27,positive,singing
+27.0,Whale vocalization,0.891323983669281,00:27,positive,singing
+27.1,Whale vocalization,0.9222963452339172,00:27,positive,singing
+27.200000000000003,Whale vocalization,0.9355315566062927,00:27,positive,singing
+27.3,Whale vocalization,0.9725925922393799,00:27,positive,singing
+27.400000000000002,Whale vocalization,0.9349753260612488,00:27,positive,singing
+27.5,Whale vocalization,0.908936083316803,00:28,positive,singing
+27.6,Whale vocalization,0.9051181077957153,00:28,positive,singing
+27.700000000000003,Whale vocalization,0.9431192874908447,00:28,positive,singing
+27.8,Whale vocalization,0.9173416495323181,00:28,positive,singing
+27.900000000000002,Whale vocalization,0.9168630242347717,00:28,positive,singing
+28.0,Whale vocalization,0.9378283619880676,00:28,positive,singing
+28.1,Whale vocalization,0.9617097973823547,00:28,positive,singing
+28.200000000000003,Whale vocalization,0.5442801117897034,00:28,positive,singing
+28.3,Whale vocalization,0.3908546566963196,00:28,positive,singing
+28.400000000000002,Whale vocalization,0.5772897601127625,00:28,positive,singing
+28.5,Whale vocalization,0.8778308033943176,00:28,positive,singing
+28.6,Whale vocalization,0.6287322640419006,00:29,positive,singing
+28.700000000000003,Whale vocalization,0.47166988253593445,00:29,positive,singing
+28.8,Whale vocalization,0.5940244793891907,00:29,positive,singing
+28.900000000000002,Whale vocalization,0.7563460469245911,00:29,positive,singing
+29.0,Whale vocalization,0.7044324278831482,00:29,positive,singing
+29.1,Whale vocalization,0.6904250383377075,00:29,positive,singing
+29.200000000000003,Whale vocalization,0.8169388771057129,00:29,positive,singing
+29.3,Whale vocalization,0.9333999156951904,00:29,positive,singing
+29.400000000000002,Whale vocalization,0.9246378540992737,00:29,positive,singing
+29.5,Whale vocalization,0.9319366812705994,00:30,positive,singing
+29.6,Whale vocalization,0.950283944606781,00:30,positive,singing
+29.700000000000003,Whale vocalization,0.9498860239982605,00:30,positive,singing
+29.8,Whale vocalization,0.952397346496582,00:30,positive,singing
+29.900000000000002,Whale vocalization,0.9496350288391113,00:30,positive,singing
+30.0,Whale vocalization,0.9613682627677917,00:30,positive,singing
+30.1,Whale vocalization,0.9464364051818848,00:30,positive,singing
+30.200000000000003,Whale vocalization,0.9295521378517151,00:30,positive,singing
+30.3,Whale vocalization,0.9237044453620911,00:30,positive,singing
+30.400000000000002,Whale vocalization,0.7228248119354248,00:30,positive,singing
+30.5,Whale vocalization,0.5511425733566284,00:30,positive,singing
+30.6,Whale vocalization,0.5103136897087097,00:31,positive,singing
+30.700000000000003,Whale vocalization,0.7371262311935425,00:31,positive,singing
+30.8,Whale vocalization,0.8742544054985046,00:31,positive,singing
+30.900000000000002,Whale vocalization,0.9077881574630737,00:31,positive,singing
+31.0,Whale vocalization,0.7433543801307678,00:31,positive,singing
+31.1,Whale vocalization,0.6921074390411377,00:31,positive,singing
+31.200000000000003,Whale vocalization,0.7701554298400879,00:31,positive,singing
+31.3,Whale vocalization,0.8299851417541504,00:31,positive,singing
+31.400000000000002,Whale vocalization,0.8205884099006653,00:31,positive,singing
+31.5,Whale vocalization,0.8367686867713928,00:32,positive,singing
+31.6,Whale vocalization,0.8445075750350952,00:32,positive,singing
+31.700000000000003,Whale vocalization,0.6658523678779602,00:32,positive,singing
+31.8,Whale vocalization,0.48129430413246155,00:32,positive,singing
+31.900000000000002,Whale vocalization,0.5135876536369324,00:32,positive,singing
+32.0,Whale vocalization,0.7067518830299377,00:32,positive,singing
+32.1,Whale vocalization,0.847557783126831,00:32,positive,singing
+32.2,Whale vocalization,0.8112895488739014,00:32,positive,singing
+32.300000000000004,Whale vocalization,0.7268951535224915,00:32,positive,singing
+32.4,Whale vocalization,0.6354062557220459,00:32,positive,singing
+32.5,Whale vocalization,0.7051277756690979,00:32,positive,singing
+32.6,Whale vocalization,0.6843153238296509,00:33,positive,singing
+32.7,Whale vocalization,0.7162808775901794,00:33,positive,singing
+32.800000000000004,Whale vocalization,0.7606066465377808,00:33,positive,singing
+32.9,Whale vocalization,0.8868656754493713,00:33,positive,singing
+33.0,Whale vocalization,0.8603581190109253,00:33,positive,singing
+33.1,Whale vocalization,0.8947249054908752,00:33,positive,singing
+33.2,Whale vocalization,0.8964633941650391,00:33,positive,singing
+33.300000000000004,Whale vocalization,0.9176429510116577,00:33,positive,singing
+33.4,Whale vocalization,0.9380717277526855,00:33,positive,singing
+33.5,Whale vocalization,1.0295255184173584,00:34,positive,singing
+33.6,Whale vocalization,0.8365869522094727,00:34,positive,singing
+33.7,Whale vocalization,0.5936167240142822,00:34,positive,singing
+33.800000000000004,Whale vocalization,0.6124973297119141,00:34,positive,singing
+33.9,Whale vocalization,0.8979325294494629,00:34,positive,singing
+34.0,Whale vocalization,1.0145418643951416,00:34,positive,singing
+34.1,Whale vocalization,0.9492330551147461,00:34,positive,singing
+34.2,Whale vocalization,0.8334518074989319,00:34,positive,singing
+34.300000000000004,Whale vocalization,0.7929491400718689,00:34,positive,singing
+34.4,Whale vocalization,0.7805191278457642,00:34,positive,singing
+34.5,Whale vocalization,0.7440309524536133,00:34,positive,singing
+34.6,Whale vocalization,0.751140296459198,00:35,positive,singing
+34.7,Whale vocalization,0.873639702796936,00:35,positive,singing
+34.800000000000004,Whale vocalization,0.9826152920722961,00:35,positive,singing
+34.9,Whale vocalization,0.9641761183738708,00:35,positive,singing
+35.0,Whale vocalization,0.9670547842979431,00:35,positive,singing
+35.1,Whale vocalization,0.9130337238311768,00:35,positive,singing
+35.2,Whale vocalization,0.8637128472328186,00:35,positive,singing
+35.300000000000004,Whale vocalization,0.821098804473877,00:35,positive,singing
+35.4,Whale vocalization,0.8307631015777588,00:35,positive,singing
+35.5,Whale vocalization,0.8243823647499084,00:36,positive,singing
+35.6,Whale vocalization,0.8788171410560608,00:36,positive,singing
+35.7,Whale vocalization,0.9291977286338806,00:36,positive,singing
+35.800000000000004,Whale vocalization,0.9476277232170105,00:36,positive,singing
+35.9,Whale vocalization,0.9346198439598083,00:36,positive,singing
+36.0,Whale vocalization,0.9560906887054443,00:36,positive,singing
+36.1,Whale vocalization,0.9564204812049866,00:36,positive,singing
+36.2,Whale vocalization,0.9501027464866638,00:36,positive,singing
+36.300000000000004,Whale vocalization,0.942187488079071,00:36,positive,singing
+36.4,Whale vocalization,0.9347484707832336,00:36,positive,singing
+36.5,Whale vocalization,0.9555124044418335,00:36,positive,singing
+36.6,Whale vocalization,0.8572710752487183,00:37,positive,singing
+36.7,Whale vocalization,0.8016100525856018,00:37,positive,singing
+36.800000000000004,Whale vocalization,0.8119922876358032,00:37,positive,singing
+36.9,Whale vocalization,0.9319601058959961,00:37,positive,singing
+37.0,Whale vocalization,0.9705623388290405,00:37,positive,singing
+37.1,Whale vocalization,0.9206190705299377,00:37,positive,singing
+37.2,Whale vocalization,0.8997619152069092,00:37,positive,singing
+37.300000000000004,Whale vocalization,0.8826026916503906,00:37,positive,singing
+37.4,Whale vocalization,0.9460764527320862,00:37,positive,singing
+37.5,Whale vocalization,0.9568185806274414,00:38,positive,singing
+37.6,Whale vocalization,0.9895451664924622,00:38,positive,singing
+37.7,Whale vocalization,0.9775755405426025,00:38,positive,singing
+37.800000000000004,Whale vocalization,0.9697020053863525,00:38,positive,singing
+37.9,Whale vocalization,0.9349619746208191,00:38,positive,singing
+38.0,Whale vocalization,0.9363817572593689,00:38,positive,singing
+38.1,Whale vocalization,0.9261571168899536,00:38,positive,singing
+38.2,Whale vocalization,0.9487048387527466,00:38,positive,singing
+38.300000000000004,Whale vocalization,0.9574586749076843,00:38,positive,singing
+38.400000000000006,Whale vocalization,0.9425678253173828,00:38,positive,singing
+38.5,Whale vocalization,0.9319126009941101,00:38,positive,singing
+38.6,Whale vocalization,0.9384278059005737,00:39,positive,singing
+38.7,Whale vocalization,0.965360164642334,00:39,positive,singing
+38.800000000000004,Whale vocalization,0.9280155301094055,00:39,positive,singing
+38.900000000000006,Whale vocalization,0.942330539226532,00:39,positive,singing
+39.0,Whale vocalization,0.9693450331687927,00:39,positive,singing
+39.1,Whale vocalization,0.9976134300231934,00:39,positive,singing
+39.2,Whale vocalization,0.9820429086685181,00:39,positive,singing
+39.300000000000004,Whale vocalization,0.9762617945671082,00:39,positive,singing
+39.400000000000006,Whale vocalization,0.9639907479286194,00:39,positive,singing
+39.5,Whale vocalization,0.9635369777679443,00:40,positive,singing
+39.6,Whale vocalization,0.9748940467834473,00:40,positive,singing
+39.7,Whale vocalization,0.942762553691864,00:40,positive,singing
+39.800000000000004,Whale vocalization,0.9154195785522461,00:40,positive,singing
+39.900000000000006,Whale vocalization,0.9208717942237854,00:40,positive,singing
+40.0,Whale vocalization,0.9758416414260864,00:40,positive,singing
+40.1,Whale vocalization,0.9517179727554321,00:40,positive,singing
+40.2,Whale vocalization,0.9242684841156006,00:40,positive,singing
+40.300000000000004,Whale vocalization,0.922385573387146,00:40,positive,singing
+40.400000000000006,Whale vocalization,0.9646305441856384,00:40,positive,singing
+40.5,Whale vocalization,0.9926102757453918,00:40,positive,singing
+40.6,Whale vocalization,1.0180027484893799,00:41,positive,singing
+40.7,Whale vocalization,0.6421286463737488,00:41,positive,singing
+40.800000000000004,Whale vocalization,0.3710896074771881,00:41,positive,singing
+40.900000000000006,Whale vocalization,0.45291781425476074,00:41,positive,singing
+41.0,Whale vocalization,0.8326765894889832,00:41,positive,singing
+41.1,Whale vocalization,0.8337481617927551,00:41,positive,singing
+41.2,Whale vocalization,0.6757115125656128,00:41,positive,singing
+41.300000000000004,Whale vocalization,0.654762327671051,00:41,positive,singing
+41.400000000000006,Whale vocalization,0.7755843997001648,00:41,positive,singing
+41.5,Whale vocalization,0.889923632144928,00:42,positive,singing
+41.6,Whale vocalization,0.9103187918663025,00:42,positive,singing
+41.7,Whale vocalization,0.8957107663154602,00:42,positive,singing
+41.800000000000004,Whale vocalization,0.9044556617736816,00:42,positive,singing
+41.900000000000006,Whale vocalization,0.9091702103614807,00:42,positive,singing
+42.0,Whale vocalization,0.9105725884437561,00:42,positive,singing
+42.1,Whale vocalization,0.9011520743370056,00:42,positive,singing
+42.2,Whale vocalization,0.9031028747558594,00:42,positive,singing
+42.300000000000004,Whale vocalization,0.9420864582061768,00:42,positive,singing
+42.400000000000006,Whale vocalization,0.9516140222549438,00:42,positive,singing
+42.5,Whale vocalization,0.9577212929725647,00:42,positive,singing
+42.6,Whale vocalization,0.9109963178634644,00:43,positive,singing
+42.7,Whale vocalization,0.9035698771476746,00:43,positive,singing
+42.800000000000004,Whale vocalization,0.9125354290008545,00:43,positive,singing
+42.900000000000006,Whale vocalization,0.8830502033233643,00:43,positive,singing
+43.0,Whale vocalization,0.795413076877594,00:43,positive,singing
+43.1,Whale vocalization,0.8092019557952881,00:43,positive,singing
+43.2,Whale vocalization,0.8501108288764954,00:43,positive,singing
+43.300000000000004,Whale vocalization,0.9040645956993103,00:43,positive,singing
+43.400000000000006,Whale vocalization,0.8976700305938721,00:43,positive,singing
+43.5,Whale vocalization,0.8726539611816406,00:44,positive,singing
+43.6,Whale vocalization,0.6877665519714355,00:44,positive,singing
+43.7,Whale vocalization,0.6467177271842957,00:44,positive,singing
+43.800000000000004,Whale vocalization,0.7747436165809631,00:44,positive,singing
+43.900000000000006,Whale vocalization,0.8640679717063904,00:44,positive,singing
+44.0,Whale vocalization,0.7578328251838684,00:44,positive,singing
+44.1,Whale vocalization,0.6549904942512512,00:44,positive,singing
+44.2,Whale vocalization,0.6507953405380249,00:44,positive,singing
+44.300000000000004,Whale vocalization,0.7091436982154846,00:44,positive,singing
+44.400000000000006,Whale vocalization,0.7735781669616699,00:44,positive,singing
+44.5,Whale vocalization,0.8387448787689209,00:44,positive,singing
+44.6,Whale vocalization,0.6633403301239014,00:45,positive,singing
+44.7,Whale vocalization,0.6974815130233765,00:45,positive,singing
+44.800000000000004,Whale vocalization,0.6021832823753357,00:45,positive,singing
+44.900000000000006,Whale vocalization,0.6734118461608887,00:45,positive,singing
+45.0,Whale vocalization,0.6582082509994507,00:45,positive,singing
+45.1,Whale vocalization,0.7504673600196838,00:45,positive,singing
+45.2,Whale vocalization,0.7043918967247009,00:45,positive,singing
+45.300000000000004,Whale vocalization,0.7711101770401001,00:45,positive,singing
+45.400000000000006,Whale vocalization,0.8998481631278992,00:45,positive,singing
+45.5,Whale vocalization,0.8604479432106018,00:46,positive,singing
+45.6,Whale vocalization,0.8146830797195435,00:46,positive,singing
+45.7,Whale vocalization,0.8546563982963562,00:46,positive,singing
+45.800000000000004,Whale vocalization,0.8870396018028259,00:46,positive,singing
+45.900000000000006,Whale vocalization,0.9084303975105286,00:46,positive,singing
+46.0,Whale vocalization,0.8921855092048645,00:46,positive,singing
+46.1,Whale vocalization,0.8810536861419678,00:46,positive,singing
+46.2,Whale vocalization,0.8491626381874084,00:46,positive,singing
+46.300000000000004,Whale vocalization,0.8310070633888245,00:46,positive,singing
+46.400000000000006,Whale vocalization,0.881619930267334,00:46,positive,singing
+46.5,Whale vocalization,0.9403122067451477,00:46,positive,singing
+46.6,Whale vocalization,0.9832364320755005,00:47,positive,singing
+46.7,Whale vocalization,0.9437522292137146,00:47,positive,singing
+46.800000000000004,Whale vocalization,0.7784460186958313,00:47,positive,singing
+46.900000000000006,Whale vocalization,0.7402451038360596,00:47,positive,singing
+47.0,Whale vocalization,0.7580247521400452,00:47,positive,singing
+47.1,Whale vocalization,0.8299478888511658,00:47,positive,singing
+47.2,Whale vocalization,0.8230725526809692,00:47,positive,singing
+47.300000000000004,Whale vocalization,0.9064682126045227,00:47,positive,singing
+47.400000000000006,Whale vocalization,0.9711491465568542,00:47,positive,singing
+47.5,Whale vocalization,0.9775134921073914,00:48,positive,singing
+47.6,Whale vocalization,0.9874854683876038,00:48,positive,singing
+47.7,Whale vocalization,0.9888055920600891,00:48,positive,singing
+47.800000000000004,Whale vocalization,0.9850931167602539,00:48,positive,singing
+47.900000000000006,Whale vocalization,0.9862773418426514,00:48,positive,singing
+48.0,Whale vocalization,0.987773060798645,00:48,positive,singing
+48.1,Whale vocalization,0.9682002663612366,00:48,positive,singing
+48.2,Whale vocalization,0.9075590968132019,00:48,positive,singing
+48.300000000000004,Whale vocalization,0.8219088912010193,00:48,positive,singing
+48.400000000000006,Whale vocalization,0.810602068901062,00:48,positive,singing
+48.5,Whale vocalization,0.7871018648147583,00:48,positive,singing
+48.6,Whale vocalization,0.7443491816520691,00:49,positive,singing
+48.7,Whale vocalization,0.7581180930137634,00:49,positive,singing
+48.800000000000004,Whale vocalization,0.8896818161010742,00:49,positive,singing
+48.900000000000006,Whale vocalization,0.9783441424369812,00:49,positive,singing
+49.0,Whale vocalization,0.9746965765953064,00:49,positive,singing
+49.1,Whale vocalization,0.9618952870368958,00:49,positive,singing
+49.2,Whale vocalization,0.9718072414398193,00:49,positive,singing
+49.300000000000004,Whale vocalization,0.9864243865013123,00:49,positive,singing
+49.400000000000006,Whale vocalization,0.994590163230896,00:49,positive,singing
+49.5,Whale vocalization,1.006571888923645,00:50,positive,singing
+49.6,Whale vocalization,0.9721870422363281,00:50,positive,singing
+49.7,Whale vocalization,0.8560490608215332,00:50,positive,singing
+49.800000000000004,Whale vocalization,0.7374308705329895,00:50,positive,singing
+49.900000000000006,Whale vocalization,0.7169790267944336,00:50,positive,singing
+50.0,Whale vocalization,0.7914506793022156,00:50,positive,singing
+50.1,Whale vocalization,0.8882538080215454,00:50,positive,singing
+50.2,Whale vocalization,0.9492218494415283,00:50,positive,singing
+50.300000000000004,Whale vocalization,0.9411365985870361,00:50,positive,singing
+50.400000000000006,Whale vocalization,0.5123811364173889,00:50,positive,singing
+50.5,Whale vocalization,0.4155973196029663,00:50,positive,singing
+50.6,Whale vocalization,0.6548226475715637,00:51,positive,singing
+50.7,Whale vocalization,0.9879555106163025,00:51,positive,singing
+50.800000000000004,Whale vocalization,0.8448848724365234,00:51,positive,singing
+50.900000000000006,Whale vocalization,0.774745523929596,00:51,positive,singing
+51.0,Whale vocalization,0.8647603392601013,00:51,positive,singing
+51.1,Whale vocalization,0.814715564250946,00:51,positive,singing
+51.2,Whale vocalization,0.826567530632019,00:51,positive,singing
+51.300000000000004,Whale vocalization,0.8020946383476257,00:51,positive,singing
+51.400000000000006,Whale vocalization,0.9003984332084656,00:51,positive,singing
+51.5,Whale vocalization,0.8990126252174377,00:52,positive,singing
+51.6,Whale vocalization,0.9416227340698242,00:52,positive,singing
+51.7,Whale vocalization,0.9275403022766113,00:52,positive,singing
+51.800000000000004,Whale vocalization,0.9310631155967712,00:52,positive,singing
+51.900000000000006,Whale vocalization,0.955508291721344,00:52,positive,singing
+52.0,Whale vocalization,0.9760248064994812,00:52,positive,singing
+52.1,Whale vocalization,0.9604392647743225,00:52,positive,singing
+52.2,Whale vocalization,0.9376862049102783,00:52,positive,singing
+52.300000000000004,Whale vocalization,0.8919630646705627,00:52,positive,singing
+52.400000000000006,Whale vocalization,0.868119478225708,00:52,positive,singing
+52.5,Whale vocalization,0.8427003622055054,00:52,positive,singing
+52.6,Whale vocalization,0.7394233345985413,00:53,positive,singing
+52.7,Whale vocalization,0.7089769244194031,00:53,positive,singing
+52.800000000000004,Whale vocalization,0.7810269594192505,00:53,positive,singing
+52.900000000000006,Whale vocalization,0.939764678478241,00:53,positive,singing
+53.0,Whale vocalization,0.9555058479309082,00:53,positive,singing
+53.1,Whale vocalization,0.9178968667984009,00:53,positive,singing
+53.2,Whale vocalization,0.8029811382293701,00:53,positive,singing
+53.300000000000004,Whale vocalization,0.795354962348938,00:53,positive,singing
+53.400000000000006,Whale vocalization,0.9012671113014221,00:53,positive,singing
+53.5,Whale vocalization,0.8788473010063171,00:54,positive,singing
+53.6,Whale vocalization,0.8402590155601501,00:54,positive,singing
+53.7,Whale vocalization,0.8686301708221436,00:54,positive,singing
+53.800000000000004,Whale vocalization,0.9988001585006714,00:54,positive,singing
+53.900000000000006,Whale vocalization,1.0596047639846802,00:54,positive,singing
+54.0,Whale vocalization,0.7307273745536804,00:54,positive,singing
+54.1,Whale vocalization,0.2516278922557831,00:54,positive,singing
+54.2,display_name,0.42873769998550415,00:54,other,unknown
+54.300000000000004,display_name,0.37599408626556396,00:54,other,unknown
+54.400000000000006,display_name,0.45107901096343994,00:54,other,unknown
+54.5,display_name,0.44127219915390015,00:54,other,unknown
+54.6,display_name,0.5182105302810669,00:55,other,unknown
+54.7,display_name,0.4241546094417572,00:55,other,unknown
+54.800000000000004,display_name,0.3543018102645874,00:55,other,unknown
+54.900000000000006,Cheering,0.34759363532066345,00:55,positive,cheering
+55.0,display_name,0.3426900804042816,00:55,other,unknown
+55.1,display_name,0.4877958297729492,00:55,other,unknown
+55.2,display_name,0.4419264793395996,00:55,other,unknown
+55.300000000000004,display_name,0.35643985867500305,00:55,other,unknown
+55.400000000000006,Cheering,0.30905210971832275,00:55,positive,cheering
+55.5,Cheering,0.2872924506664276,00:56,positive,cheering
+55.6,Cheering,0.24618814885616302,00:56,positive,cheering
+55.7,display_name,0.2161383479833603,00:56,other,unknown
+55.800000000000004,display_name,0.39786145091056824,00:56,other,unknown
+55.900000000000006,display_name,0.4678797423839569,00:56,other,unknown
+56.0,display_name,0.3769329786300659,00:56,other,unknown
+56.1,Cheering,0.49634090065956116,00:56,positive,cheering
+56.2,Cheering,0.608921468257904,00:56,positive,cheering
+56.300000000000004,Cheering,0.5263563394546509,00:56,positive,cheering
+56.400000000000006,display_name,0.34173092246055603,00:56,other,unknown
+56.5,display_name,0.409805566072464,00:56,other,unknown
+56.6,Cheering,0.28549423813819885,00:57,positive,cheering
+56.7,Cheering,0.6056672930717468,00:57,positive,cheering
+56.800000000000004,Cheering,0.6833785176277161,00:57,positive,cheering
+56.900000000000006,Cheering,0.4206429719924927,00:57,positive,cheering
+57.0,display_name,0.3093487024307251,00:57,other,unknown
+57.1,display_name,0.42386355996131897,00:57,other,unknown
+57.2,display_name,0.36348655819892883,00:57,other,unknown
+57.300000000000004,Cheering,0.42207133769989014,00:57,positive,cheering
+57.400000000000006,Cheering,0.5658036470413208,00:57,positive,cheering
+57.5,Cheering,0.5933472514152527,00:58,positive,cheering
+57.6,Cheering,0.4482709467411041,00:58,positive,cheering
+57.7,Cheering,0.2499285191297531,00:58,positive,cheering
+57.800000000000004,Cheering,0.5008603930473328,00:58,positive,cheering
+57.900000000000006,Cheering,0.8490484356880188,00:58,positive,cheering
+58.0,Cheering,0.6799331903457642,00:58,positive,cheering
+58.1,Cheering,0.342277854681015,00:58,positive,cheering
+58.2,display_name,0.34712517261505127,00:58,other,unknown
+58.300000000000004,display_name,0.2471482753753662,00:58,other,unknown
+58.400000000000006,display_name,0.37056398391723633,00:58,other,unknown
+58.5,display_name,0.3349529504776001,00:58,other,unknown
+58.6,Cheering,0.45671913027763367,00:59,positive,cheering
+58.7,Cheering,0.6089550852775574,00:59,positive,cheering
+58.800000000000004,Cheering,0.40630650520324707,00:59,positive,cheering
+58.900000000000006,display_name,0.2374478131532669,00:59,other,unknown
+59.0,display_name,0.2592395842075348,00:59,other,unknown
+59.1,display_name,0.3159562945365906,00:59,other,unknown
+59.2,display_name,0.49809592962265015,00:59,other,unknown
+59.300000000000004,display_name,0.536616325378418,00:59,other,unknown
+59.400000000000006,display_name,0.3643542528152466,00:59,other,unknown
+59.5,Conversation,0.23608222603797913,01:00,positive,engagement
+59.6,display_name,0.40996888279914856,01:00,other,unknown
+59.7,display_name,0.5168088674545288,01:00,other,unknown
+59.800000000000004,display_name,0.3861905336380005,01:00,other,unknown
+59.900000000000006,Chorus effect,0.14282888174057007,01:00,positive,singing
+60.0,Roar,0.15820430219173431,01:00,positive,excitement
+60.1,Chorus effect,0.384623646736145,01:00,positive,singing
+60.2,Chorus effect,0.4855138063430786,01:00,positive,singing
+60.300000000000004,Chorus effect,0.41464096307754517,01:00,positive,singing
+60.400000000000006,display_name,0.4236152768135071,01:00,other,unknown
+60.5,display_name,0.6572357416152954,01:00,other,unknown
+60.6,display_name,0.9338263869285583,01:01,other,unknown
+60.7,display_name,0.6847936511039734,01:01,other,unknown
+60.800000000000004,display_name,0.3375500440597534,01:01,other,unknown
+60.900000000000006,display_name,0.12387324869632721,01:01,other,unknown
+61.0,Crackle,0.11611539870500565,01:01,other,unknown

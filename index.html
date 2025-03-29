@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Performance Analyzer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .upload-section {
+            margin-bottom: 20px;
+            padding: 20px;
+            border: 2px dashed #ccc;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .results-section {
+            margin-top: 20px;
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .error {
+            color: red;
+            margin: 10px 0;
+        }
+        .success {
+            color: green;
+            margin: 10px 0;
+        }
+        pre {
+            background-color: #f8f8f8;
+            padding: 15px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Live Performance Analyzer</h1>
+        
+        <div class="upload-section">
+            <input type="file" id="audioFile" accept=".mp3" style="display: none;">
+            <button onclick="document.getElementById('audioFile').click()">Select Audio File</button>
+            <p id="fileName"></p>
+            <button id="analyzeBtn" onclick="analyzeAudio()" disabled>Analyze</button>
+        </div>
+
+        <div id="loading" class="loading">
+            Analyzing... This may take a few minutes.
+        </div>
+
+        <div id="error" class="error"></div>
+        <div id="success" class="success"></div>
+
+        <div id="results" class="results-section">
+            <h2>Analysis Results</h2>
+            <div id="technicalAnalysis"></div>
+            <h2>AI Insights</h2>
+            <div id="llmInsights"></div>
+        </div>
+    </div>
+
+    <script>
+        const API_URL = 'http://localhost:8000/analyze';
+        let selectedFile = null;
+
+        document.getElementById('audioFile').addEventListener('change', function(e) {
+            selectedFile = e.target.files[0];
+            document.getElementById('fileName').textContent = selectedFile ? selectedFile.name : '';
+            document.getElementById('analyzeBtn').disabled = !selectedFile;
+        });
+
+        async function analyzeAudio() {
+            if (!selectedFile) return;
+
+            const formData = new FormData();
+            formData.append('file', selectedFile);
+
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('error').textContent = '';
+            document.getElementById('success').textContent = '';
+            document.getElementById('results').style.display = 'none';
+
+            try {
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    body: formData
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                
+                // Display technical analysis
+                document.getElementById('technicalAnalysis').innerHTML = `
+                    <h3>Technical Analysis</h3>
+                    <pre>${JSON.stringify(data.technical_analysis, null, 2)}</pre>
+                `;
+
+                // Display LLM insights
+                document.getElementById('llmInsights').innerHTML = `
+                    <h3>AI Insights</h3>
+                    <pre>${data.llm_insights}</pre>
+                `;
+
+                document.getElementById('results').style.display = 'block';
+                document.getElementById('success').textContent = 'Analysis completed successfully!';
+            } catch (error) {
+                document.getElementById('error').textContent = `Error: ${error.message}`;
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+    </script>
+</body>
+</html> 
